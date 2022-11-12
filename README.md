@@ -8,7 +8,7 @@ Cardano is an organically decentralized eco system with a large pool of single s
 
 ## Compatible Wallet Cryptography
 
-While Cardano doesn't use the same key algorithms as Helium, it has shown to be willing to create primitives to ease cross chain interoperability, by adding support for secp by popular request. I would not be surprised if they would be able to do the same for ed25519.
+Cardano already supports the primitives to facilitate Ed25519 signatures. It's builtin to the Smart Contract Language as PLC.VerifyEd25519Signature.
 
 * https://iohk.io/en/blog/posts/2022/11/03/what-is-secp-and-how-it-drives-cross-chain-development-on-cardano/
 
@@ -25,6 +25,7 @@ While Cardano has a relatively small DeFi eco system, and a low TVL, this is cha
 * https://muesliswap.com/
 * https://minswap.org/
 * https://sundaeswap.finance/
+* https://www.wingriders.com/
 
 On top of this, because of Cardano's native token concept, there are a lot of NFT projects, NFT market places, and a handful of promising metaverse projects.
 
